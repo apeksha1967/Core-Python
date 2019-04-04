@@ -1,0 +1,4 @@
+1 - What is the output of print tinylist * 2 if tinylist = [123, 'john']?
+2 - Which of the following function checks in a string that all characters are numeric?
+3 - Which of the following function randomizes the items of a list in place?
+4 - What is the following function returns item from the list with min value?

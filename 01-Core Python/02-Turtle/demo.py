@@ -1,0 +1,10 @@
+import turtle
+turtle.pen()
+turtle.forward(200)
+turtle.left(90)
+turtle.forward(200)
+turtle.left(90)
+turtle.forward(200)
+turtle.left(90)
+turtle.forward(200)
+turtle.reset()
